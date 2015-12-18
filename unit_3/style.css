@@ -7,12 +7,14 @@ body {
 }
 h1 {
 	font-weight: bold;
-	font-size: 1000px
+	font-size: 1000px; 
 	color: #FFC0CB
 }
+
 li {
-	color: #FFC0CB
-	font-size: 40px;
+	color: #FFC0CB; 
+	font-size: 50px;
+	font-weight: bold;
 }
 hr {
 	width: 1000px;
