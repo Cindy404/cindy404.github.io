@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background: url("Hero_3.jpg");
+	background-size: cover;
+	color: #fff
+	font-family:"Courier New", Courier, monospace;
+}
+h1 {
+	font-weight: bold;
+	color: #FFC0CB
+}
+li {
+	color: #FFC0CB
+}
+hr {
+	width: 200px;
+}
+p {
+	font-size: 24px;
+	font-style: italic;
+
+}
